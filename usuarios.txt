@@ -1,0 +1,2 @@
+Usuario por defecto: Administrador
+    Clave: Administrador
